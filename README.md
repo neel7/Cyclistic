@@ -1,2 +1,5 @@
 # Data_Analyst_Projects
-Data Analyst projects
+Hello, I created 3 Data Analysis projects.
+1) Cyclistic
+2) Bellabeat
+3) Global Terrorism analysis
